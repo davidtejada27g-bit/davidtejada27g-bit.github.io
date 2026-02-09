@@ -7,4 +7,5 @@ export default defineConfig({
   server: {
     allowedHosts: ["mails-approx-broken-seen.trycloudflare.com"],
   },
+  base: "/",
 });
